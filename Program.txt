@@ -1,2 +1,2 @@
 Console.WriteLine("asfsadf");
-Console.Read();
+Console.Read("asdf");
